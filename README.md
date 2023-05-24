@@ -4,3 +4,5 @@ Each of these projects was a large project that I had to create for the class th
 
 * [Add Numbers Project](https://github.com/CommanderKnight5214/PastProgrammingProjects/blob/main/Class%20Projects/AddNumbersFinal/About-Add-Numbers.md)
 * [Image Classification Project](https://github.com/CommanderKnight5214/PastProgrammingProjects/blob/main/Class%20Projects/Image%20Classification%20Project/About-Image-Classification-Project.md)
+* [Machine Learning Project](https://github.com/CommanderKnight5214/PastProgrammingProjects/blob/main/Class%20Projects/Machine%20Learning%20Project/About-Machine-Learning-Project.md)
+* [Team Builder Application](https://github.com/CommanderKnight5214/PastProgrammingProjects/blob/main/Class%20Projects/Team%20Builder%20Project/About-The-Team-Builder-Application.md)
